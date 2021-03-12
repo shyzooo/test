@@ -280,7 +280,7 @@ p {
 .block__progressbar:after {
     content: "";
     display: block;
-    width: 35%;
+    width: 30%;
     height: 20%;
     position: absolute;
     left: 0;
